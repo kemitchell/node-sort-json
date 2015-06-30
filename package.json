@@ -1,7 +1,7 @@
 {
   "name": "node-sort-json",
   "description": "JSON.stringify(JSON.parse(stdin).sort())",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "bin": "node-sort-json.js",
   "license": "MIT",
